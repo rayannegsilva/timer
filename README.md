@@ -1,5 +1,8 @@
 # Timer
 
+<h1 align="center">
+  <img  width="100%"  title="Timer" src="src/assets/HomeCapa.png"/>
+</h1>
 
 
 
